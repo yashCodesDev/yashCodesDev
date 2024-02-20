@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hey there! I'm Yash Sharma, an IoT enthusiast & aspiring Flutter developer. 🎓 MSc Informatics student at Delhi University | BCA graduate. 📫Let's connect!</h2>
 
 ###
 
