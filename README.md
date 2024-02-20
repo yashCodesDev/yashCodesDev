@@ -1,17 +1,24 @@
-<h2 align="left">👋 Hey there! I'm Yash Sharma, an IoT enthusiast & aspiring Flutter developer. 🎓 MSc Informatics student at Delhi University | BCA graduate. 📫Let's connect!</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashCodesDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashCodesDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# Hey, I'm Yash Sharma! 👋                     <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJpZjk4eDRoa3NpM2t4bDB3cm8yajcxaWkwZW1rYnhnMW1seDlxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-###
+🚀 **IoT Enthusiast | Aspiring Flutter Developer | MSc Informatics Student**
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJpZjk4eDRoa3NpM2t4bDB3cm8yajcxaWkwZW1rYnhnMW1seDlxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+Welcome to my corner of the coding universe! 🌌✨
 
-###
+## About Me
+
+🎓 Currently pursuing my MSc in Informatics at Delhi University, and I hold a degree in BCA.
+
+🔍 Always exploring the intersection of IoT and Flutter, seeking to make the digital world more vibrant!
+
+## 🌟 What I'm Up To
+
+🚀 Diving into Flutter, crafting sleek and snazzy mobile apps.
+
+🤖 Cooking up exciting IoT projects to add a touch of magic to everyday devices.
+
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -35,7 +42,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashCodesDev)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats
+
+![Yash Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashCodesDev&show_icons=true&count_private=true&hide=issues&theme=radical)
+
+
+</details>
+
+
+
+
+## 📫 Let's Connect!
 
 <div align="left">
   <a href="https://www.instagram.com/red_devil_99_/" target="_blank">
@@ -49,7 +70,9 @@
   </a>
 </div>
 
-###
+
+Feel free to explore my repos, and let's collaborate on some code that's as funky as this README! 🎉
+
 
 <br clear="both">
 
