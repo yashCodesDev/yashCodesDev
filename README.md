@@ -67,7 +67,12 @@ Welcome to my corner of the coding universe! 🌌✨
   </a>
   <a href="https://www.linkedin.com/in/yash-sharma-codes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    
   </a>
+  <a href="https://twitter.com/_Yash_07_" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a> 
+</div>
 </div>
 
 
